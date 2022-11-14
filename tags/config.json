@@ -9,7 +9,7 @@
 	"maxResults": 5,
 	"resultStepLength": 500,
 	"delayTime": 100,
-	"showAllResults": false,
+	"showAllResults": true,
 	"useLeftRightArrowKeys": false,
 	"replaceUnderscores": true,
 	"escapeParentheses": true,
@@ -21,7 +21,7 @@
 		"onlyShowAlias": false
 	},
 	"translation": {
-		"translationFile": "",
+		"translationFile": "danbooru-zh.csv",
 		"oldFormat": false,
 		"searchByTranslation": true
 	},
